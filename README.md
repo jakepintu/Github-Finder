@@ -1,6 +1,3 @@
-# 
-Github Finder is an app where you can find github users
-
 # [Github-Finder](https://jakepintu.github.io/Github-Finder/)
 
 ## Description
