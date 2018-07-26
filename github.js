@@ -1,7 +1,7 @@
 class Github {
   constructor() {
-    this.client_id = 'd9308aacf8b204d361fd';
-    this.client_secret = '84969aeef73956f4ec9e8716d1840532802bb81b';
+    this.client_id = '9834b197f2d5424a31b8';
+    this.client_secret = '2ed508f6e22b03764b4e29d8f232f9379e1cac58';
     this.repos_count = 5;
     this.repos_sort = 'created: asc';
   }
